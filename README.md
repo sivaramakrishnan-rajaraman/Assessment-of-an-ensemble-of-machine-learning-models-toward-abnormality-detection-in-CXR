@@ -24,7 +24,7 @@ The repository includes the notebook “Ensemble of ML models toward abnormality
 
 # Dataset:
 
-The dataset used in this study is made available by RSNA for the Kaggle pneumonia detection challenge (https://www.kaggle.com/c/rsna-pneumonia-detectionchallenge/data). The dataset includes images with pulmonary opacities that may represent pneumonia and other images that are normal and those without a pulmonary opacity suspicious for pneumonia. 
+The dataset used in this study is made available by RSNA for the Kaggle pneumonia detection challenge (https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data). The dataset includes images with pulmonary opacities that may represent pneumonia and other images that are normal and those without a pulmonary opacity suspicious for pneumonia. 
 
 # Preprocessing:
 
